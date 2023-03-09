@@ -1,6 +1,6 @@
 {
   "name": "@icttroacon/n8n-nodes-sql-placeholder",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "n8n nodes for SQL Placeholder",
   "keywords": [
     "n8n-community-node-package"
